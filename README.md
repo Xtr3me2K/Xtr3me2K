@@ -6,3 +6,5 @@
 - I am 16 years old, and i plan of becoming a game developer one day.
 - <img src="https://64.media.tumblr.com/bb84bcbe233f0146afe61439da862fe9/9c5778f9cf4a88af-89/s1280x1920/97aedf223cff0082d40b4c6435797a644839cca5.gif" width="20" height="10"> I am assexual.
 - I am currently learning HTML, CSS, JavaScript, Java, Markdown and PHP.
+
+  <img src="https://pbs.twimg.com/profile_banners/1676758705126141953/1691797005/1500x500">
