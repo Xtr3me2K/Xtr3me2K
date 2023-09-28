@@ -10,4 +10,4 @@
 - I am 16 years old, and i plan of becoming a game developer one day.
 - I am currently learning HTML, CSS, JavaScript, Java,  Bootstrap, Markdown and PHP.
 
-  <img src="[https://pbs.twimg.com/profile_banners/1676758705126141953/1691797005/1500x500](https://marketplace.canva.com/EAFK_XV_Ht8/1/0/1600w/canva-black-typographic-retro-moon-and-astronaut-twitter-header-0NTqoXhUtsE.jpg)https://marketplace.canva.com/EAFK_XV_Ht8/1/0/1600w/canva-black-typographic-retro-moon-and-astronaut-twitter-header-0NTqoXhUtsE.jpg">
+  <img src="https://marketplace.canva.com/EAFK_XV_Ht8/1/0/1600w/canva-black-typographic-retro-moon-and-astronaut-twitter-header-0NTqoXhUtsE.jpg">
