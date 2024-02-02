@@ -5,7 +5,7 @@
 </p>
 
 # Who am i?
-- I am @Xtr3me2K_
+- My name is Luís Gustavo Magela da Silva.
 - <img src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif" width="20" height="10"> I am from São Paulo, Brazil.
 - I am 16 years old, and i plan of becoming a game developer one day.
 - I am currently learning HTML, CSS, JavaScript, Java,  Bootstrap, Markdown and PHP.
