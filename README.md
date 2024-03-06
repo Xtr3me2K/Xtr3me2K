@@ -7,7 +7,7 @@
 # Who am i?
 - My name is Luís Gustavo Magela da Silva.
 - <img src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif" width="20" height="10"> I am from São Paulo, Brazil.
-- I am 16 years old, and i plan of becoming a game developer one day.
+- I am 17 years old, and i plan of becoming a game developer one day.
 - I am currently learning HTML, CSS, JavaScript, Java,  Bootstrap, Markdown and PHP.
 
   <img src="https://marketplace.canva.com/EAFK_XV_Ht8/1/0/1600w/canva-black-typographic-retro-moon-and-astronaut-twitter-header-0NTqoXhUtsE.jpg">
