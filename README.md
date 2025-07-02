@@ -11,4 +11,4 @@
 - I had experiences with HTML, CSS, JavaScript, Java, Bootstrap, Markdown and PHP.
 - Currently studying to work on future OpenSource projects.
 
-  <img src=["https://images.huffingtonpost.com/2016-04-14-1460615220-3808610-Kobe_Quote.png"]>
+  <img src=[(https://images.huffingtonpost.com/2016-04-14-1460615220-3808610-Kobe_Quote.png)]>
